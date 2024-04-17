@@ -11,5 +11,5 @@ jobs:
     uses: lsc-sde/lsc-sde/.github/workflows/helm-release.yaml@main
     with:
       directory: iac/helm/secrets-distributor
-      yamlPath: secrets_distributor_chart_version
+      yamlPath: secrets_distributor
     secrets: inherit
