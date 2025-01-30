@@ -1,5 +1,5 @@
 replicas: 1
-image: lscsde/secrets-distributor:0.1.22
+image: lscsde/secrets-distributor:0.1.29
 nodeSelector: {}
 tolerations: []
 volumes: []
